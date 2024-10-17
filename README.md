@@ -72,5 +72,8 @@
     }
 
 # OUTPUT
+
+![WhatsApp Image 2024-10-17 at 19 21 47_865f6bc1](https://github.com/user-attachments/assets/9af6a1bb-1e27-4aa5-bb98-14bf6877fdc0)
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
